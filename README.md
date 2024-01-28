@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @saquibsayyedcoder
+- 👋 Hi, I’m @saquibsayyed
 - 👀 I’m interested in MERN Stack Developer 
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me saquibsayyedcoder
+- 📫 How to reach me saquibsayyed
 
 <!---
 saquibsayyedcoder/saquibsayyedcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
