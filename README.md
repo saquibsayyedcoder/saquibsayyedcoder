@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saquibsayyed
-- 👀 Gain skill in MERN Stack Developer 
+- 👀 MERN Stack Developer 
 - 🌱 In future I am Best MERN Stack Developer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me saquibsayyedcoder
