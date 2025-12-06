@@ -2,7 +2,7 @@
 - 👀 MERN Stack Developer 
 - 📫 How to reach me saquibsayyedcoder
 - 💥Good Knowledge of Java, Postgre SQL
-- 🌵 Also Skill in JavaScript, ReactJs, Tailwind CSS, Node Js, Express Js, MonogoDB
+- 🌵MY Tech Stack is JavaScript, ReactJs, Tailwind CSS, Node Js, Express Js, MonogoDB, Postgre SQL, Prisma ORM, Microservices
 - 🕵️Working as an Associate Engineer 
 
 <!---
