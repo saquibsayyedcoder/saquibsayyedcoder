@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm Currently Working on saas Project<br>My tech stack is MERN, Microservices, Prisma ORM, Rabbit MQ<br>Dedicate to my work
+Hello 👋
+I am a passionate and dedicated Full Stack Developer who loves building real-world applications and scalable systems. I am currently working on a SaaS project, where I focus on writing clean, maintainable code and designing reliable backend systems. I enjoy learning new technologies and improving my skills every day.
+
+My main tech stack is MERN (MongoDB, Express, React, Node.js), and I also work with microservices architecture to build scalable and independent services. I have hands-on experience with Prisma ORM, RabbitMQ, and REST APIs, which helps me create efficient and high-performance applications. I understand both monolithic and microservices systems and know when to use each approach based on project needs.
+
+On the frontend, I work with React, Next.js, TypeScript, Redux, React Query, React Hook Form, and Tailwind/Vite to build fast, responsive, and user-friendly interfaces. On the backend, I use Node.js, Express.js, JWT authentication, and databases like MongoDB, PostgreSQL, and MySQL. I also have experience with Java, Sequelize, and server-side rendering using EJS.
+
+For deployment and tools, I regularly use Git, GitHub, Vercel, Netlify, PNPM, and follow best practices for version control and collaboration. I enjoy solving problems, debugging complex issues, and optimizing performance.
+
+I am highly dedicated to my work, always eager to learn, and motivated to grow as a developer. My goal is to build meaningful products that solve real problems and create value for users 🚀.
 
 
 # 💻 Tech Stack:
